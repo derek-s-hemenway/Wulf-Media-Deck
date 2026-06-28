@@ -11,4 +11,7 @@ It's a basic .AppImage, so all you have to do is enter this command: chmod +x fi
 
 In the terminal/konsole in the containing folder, it will become clickable in the GUI or openable from the terminal.
 
+This the url for the file: https://github.com/derek-s-hemenway/Wulf-Media-Deck/releases/tag/v1.0.0
+
+
 So there it is, Happy Listening!
