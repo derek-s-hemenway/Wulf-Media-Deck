@@ -7,7 +7,7 @@ I've been brainstorming how to address the issue of web browsers getting bigger 
 
 Wulf Media Deck, quite simply, is a relatively lightweight app that can and will work on any and all Linux platforms, only consuming 669 mib of RAM at its biggest load, still less than a given web browser, which can consume a whopping 1.6/1.9! 
 
-It's a basic .AppImage, so all you have to do is enter this command: chmod +x filename.AppImage 
+It's a basic .AppImage, so all you have to do is enter this command: chmod +x Wulf Media Deck-1.0.0.AppImage
 
 In the terminal/konsole in the containing folder, it will become clickable in the GUI or openable from the terminal.
 
